@@ -9,7 +9,7 @@ This set include:
 
 - ex4.mlx - MATLAB Live Script that steps you through the exercise
 
--ex4.pdf - Information of this exercise
+- ex4.pdf - Information of this exercise
 
 - ex4data1.mat - Training set of hand-written digits
 
